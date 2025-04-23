@@ -9,7 +9,11 @@ This project demonstrates a data pipeline that syncs data from MySQL to Apache I
 - Docker and Docker Compose
 - Python 3.8+
 - pip
+- olakes-hive integration
+- spark
+- iceberg
 
+And i have created a folder in that all docker.yml files and spark files and mysql data files will be there throught that by using that path write the commands accordingly
 ## Setup
 
 1. Clone this repository and navigate to the project directory:
