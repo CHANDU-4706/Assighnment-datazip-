@@ -13,6 +13,8 @@ This project demonstrates a data pipeline that syncs data from MySQL to Apache I
 - spark
 - iceberg
 
+And i have pulled all the olake resources in to the docker by using resources provided in the github and website
+
 And i have created a folder in that all docker.yml files and spark files and mysql data files will be there throught that by using that path write the commands accordingly
 ## Setup
 
